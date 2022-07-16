@@ -1,14 +1,15 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
-- Preferred Programming Language: C++/Java/Python
+- Name: Utkarsh singh
+- University Roll No.:1900290210178
+- Branch:en
+- Section:c
+- Preferred Programming Language: Java
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: [Utkarsh_singh](https://leetcode.com/
+us6408001/)
+- HackerRank: [Utkarsh_singh](https://www.hackerrank.com/us6408001)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
