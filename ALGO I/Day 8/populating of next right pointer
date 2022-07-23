@@ -1,0 +1,25 @@
+class Solution {
+    public Node connect(Node root) {
+
+        Queue<Node> q = new LinkedList<>();
+        if(root==null) return root;
+        q.add(root);
+        while(!q.isEmpty()){
+            int size = q.size();
+            while(size>0){
+                Node curr = q.poll();
+                if(q.isEmpty() || size==1){
+                    curr.next = null;
+                }else{
+                    curr.next = q.peek();
+                }
+                if(curr.left!=null && curr.right!=null){
+                    q.add(curr.left);
+                    q.add(curr.right);
+                }
+                size--;
+            }
+        }
+        return root;
+    }
+}
